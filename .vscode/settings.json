@@ -1,0 +1,30 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.smoothScrolling": true,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "editor.detectIndentation": false,
+    "git.confirmSync": false,
+    "prettier.semi": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+    "workbench.colorTheme": "Default Dark Modern",
+}
